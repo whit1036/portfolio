@@ -1,0 +1,7 @@
+.portfolio-banner {
+    background-image: url(../images/portfolio-banner.jpeg);
+    background-size: cover;
+    align-self: center;
+    width: 100%;
+    height: 50vh;
+}
