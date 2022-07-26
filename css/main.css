@@ -1,3 +1,16 @@
+/* sets font-family for corresponsing font tags */
+h1 {
+    font-family: 'Rokkitt', serif;
+}
+
+p {
+    font-family: 'Kalam', cursive;
+}
+
+a {
+    font-family: 'Rokkitt', serif;
+}
+
 /* adds portfolio banner bg-img, aligns image to center at 1400px max-width, adds text shadow for easy to read header font */
 .portfolio-banner {
     background-image: url(../images/portfolio-banner.jpeg);
