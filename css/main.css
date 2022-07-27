@@ -11,9 +11,12 @@ a {
     font-family: 'Rokkitt', serif;
 }
 
-/* adds portfolio banner bg-img, aligns image to center at 1400px max-width, adds text shadow for easy to read header font */
-.portfolio-banner {
-    background-image: url(../images/portfolio-banner.jpeg);
+/******************************
+    Homepage Page Styles
+******************************/
+
+.home-banner {
+    background-image: url(../images/home-banner.jpeg);
     background-size: cover;
     align-self: center;
     max-width: 1300px;
@@ -24,7 +27,28 @@ a {
     text-shadow: 2px 2px 2px rgba(0,0,0,.8);
 }
 
+/******************************
+    Portfolio Page Styles
+******************************/
+
+/* adds portfolio banner bg-img, aligns image to center at 1400px max-width, adds text shadow for easy to read header font */
+.portfolio-banner {
+    background-image: url(../images/portfolio-banner.jpeg);
+    background-size: cover;
+    align-self: center;
+    max-width: 1300px;
+    min-height: 50vh;
+    position: relative;
+    margin: auto;
+    color: white;
+    text-shadow: 4px 4px 4px rgba(0,0,0,.8);
+}
+
 @media (max-width: 768px) {
+    .home-banner {
+        min-height: 30vh;
+    }
+    
     .portfolio-banner {
         min-height: 30vh;
     }
