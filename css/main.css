@@ -1,5 +1,5 @@
 /* sets font-family for corresponsing font tags */
-h1 {
+h1, h2 {
     font-family: 'Rokkitt', serif;
 }
 
