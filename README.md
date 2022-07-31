@@ -13,5 +13,6 @@ https://animate.style/
 Font styles taken from: https://fonts.google.com/
 
 References:
+https://getbootstrap.com/ - Bootstrap 5.2 Docs/Instructions
 https://youtu.be/akXfF066MY0 - Bootstrap 5 Navbar Tutorial
 https://youtu.be/W87XNjvXiWw - Responsive Background Images w/ Bootstrap 5
