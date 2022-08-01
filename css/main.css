@@ -1,4 +1,4 @@
-/* sets font-family for corresponsing font tags */
+/* sets font-family for corresponsing font and class tags */
 h1, h2 {
     font-family: 'Rokkitt', serif;
 }
