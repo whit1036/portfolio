@@ -30,7 +30,7 @@ a {
 .web-dev-bg {
     background-image: url(../images/programming-1200_x_1200.png);
     max-width: 400px;
-    min-height: 50vh;
+    min-height: 60vh;
     position: relative;
     margin: auto;
     color: white;
@@ -40,7 +40,7 @@ a {
 .photography-bg {
     background-image: url(../images/camera-woodtable-1200_x_1200.jpeg);
     max-width: 400px;
-    min-height: 50vh;
+    min-height: 60vh;
     position: relative;
     margin: auto;
     color: white;
@@ -50,7 +50,7 @@ a {
 .software-bg {
     background-image: url(../images/laptop-software-1200_x_1200.jpeg);
     max-width: 400px;
-    min-height: 50vh;
+    min-height: 60vh;
     position: relative;
     margin: auto;
     color: white;
