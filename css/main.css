@@ -86,17 +86,17 @@ a {
 
 @media (max-width: 992px) {
     .web-dev-bg {
-        min-height: 30vh;
+        min-height: 40vh;
         max-width: 960px;
     }
 
     .photography-bg {
-        min-height: 30vh;
+        min-height: 40vh;
         max-width: 960px;
     }
 
     .software-bg {
-        min-height: 30vh;
+        min-height: 40vh;
         max-width: 960px;
     }
 }
