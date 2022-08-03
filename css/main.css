@@ -1,5 +1,7 @@
 :root {
     --bg-dark:#000000;
+    --text-light: #F9F6EE;
+    --navbar-dark: #F9F6EE;
 }
 
 body {
@@ -12,6 +14,10 @@ header {
 
 footer {
     color: var(--bg-dark);
+}
+
+h1, h2, h3, p {
+    color: var(--text-light);
 }
 
 /* sets font-family for corresponsing font and class tags */
