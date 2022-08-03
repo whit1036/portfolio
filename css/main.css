@@ -1,3 +1,19 @@
+:root {
+    --bg-dark:#000000;
+}
+
+body {
+    background-color: var(--bg-dark);
+}
+
+header {
+    color: var(--bg-dark);
+}
+
+footer {
+    color: var(--bg-dark);
+}
+
 /* sets font-family for corresponsing font and class tags */
 h1, h2 {
     font-family: 'Rokkitt', serif;
