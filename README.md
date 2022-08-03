@@ -13,6 +13,8 @@ https://animate.style/
 Font styles taken from: https://fonts.google.com/
 
 References:
+https://imdac.github.io/mtm6201/content/ - IMDAC Web Development II Content
+https://youtu.be/KoeG--XXVnU - MTM6201 - Web Dev II - Week 10 - Section 010 - Spring 2022
 https://getbootstrap.com/ - Bootstrap 5.2 Docs/Instructions
 https://youtu.be/akXfF066MY0 - Bootstrap 5 Navbar Tutorial
 https://youtu.be/W87XNjvXiWw - Responsive Background Images w/ Bootstrap 5
