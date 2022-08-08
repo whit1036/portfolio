@@ -15,7 +15,7 @@ All Modern Frameworks used:
 Copyright free to use font styles taken from: [Google Fonts](https://fonts.google.com/)
 
 ### References:
-[IMDAC Web Development II](https://imdac.github.io/mtm6201/content/)
+* [IMDAC Web Development II](https://imdac.github.io/mtm6201/content/)
 [MTM6201 - Web Dev II - Week 10 - Section 010 - Spring 2022](https://youtu.be/KoeG--XXVnU)
 [Bootstrap 5.2 Docs/Instructions](https://getbootstrap.com/)
 [Bootstrap 5 Navbar Tutorial](https://youtu.be/akXfF066MY0)
