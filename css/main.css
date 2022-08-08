@@ -39,6 +39,11 @@ a:link, a:visited, a:hover, a:active {
     text-decoration: none;
 }
 
+.whitworth-logo {
+    width: 160px;
+    height: 160px;
+}
+
 /******************************
     Homepage Page Styles
 ******************************/
