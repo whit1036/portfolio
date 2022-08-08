@@ -20,3 +20,4 @@ https://youtu.be/akXfF066MY0 - Bootstrap 5 Navbar Tutorial
 https://youtu.be/W87XNjvXiWw - Responsive Background Images w/ Bootstrap 5
 https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page - Getting a link go to a specific section on another page
 https://www.codegrepper.com/code-examples/whatever/resize+image+in+bootstrap - Resize image in Bootstrap
+https://vecta.io/nano - Lossless SVG Compressor (fixes font render issue on other browsers)
