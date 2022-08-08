@@ -1,18 +1,18 @@
 # Portfolio
 
-Information Description:
+## Information Description:
 
-Throughout my journey in Web Development, I have learned to code responsive websites with close attention to semantics, accessibility standards, and design. I created low and high fidelity digital mockups in Adobe XD as part of my User Experience Design Course. From there, I began to begin to coding process, beginning with my laying out my HTML, linking my stylesheet, bootstrap, and my font scrpit to the head of the index.html file.
+### Throughout my journey in Web Development, I have learned to code responsive websites with close attention to semantics, accessibility standards, and design. I created low and high fidelity digital mockups in Adobe XD as part of my User Experience Design Course. From there, I began to begin to coding process, beginning with my laying out my HTML, linking my stylesheet, bootstrap, and my font scrpit to the head of the index.html file.
 
-After starting with a simple png image for my logo, I realised that the quality of the logo was not of high-quality. To resolve this issue, I used an svg file for my logo instead. After pushing my code to GitHub and testing on multiple browsers, I came into some font rendering issues. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seemlessly across all browsers with the correct font!
+### After starting with a simple png image for my logo, I realised that the quality of the logo was not of high-quality. To resolve this issue, I used an svg file for my logo instead. After pushing my code to GitHub and testing on multiple browsers, I came into some font rendering issues. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seemlessly across all browsers with the correct font!
 
-Copyright free to use images taken from: https://pixabay.com/
+Copyright free to use images taken from: [title](https://pixabay.com/)
 
 All Modern Frameworks used: 
-https://getbootstrap.com/
-https://animate.style/
+[Bootstrap](https://getbootstrap.com/)
+[title](https://animate.style/)
 
-Copyright free to use font styles taken from: https://fonts.google.com/
+Copyright free to use font styles taken from: [title](https://fonts.google.com/)
 
 References:
 https://imdac.github.io/mtm6201/content/ - IMDAC Web Development II Content
@@ -23,3 +23,4 @@ https://youtu.be/W87XNjvXiWw - Responsive Background Images w/ Bootstrap 5
 https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page - Getting a link go to a specific section on another page
 https://www.codegrepper.com/code-examples/whatever/resize+image+in+bootstrap - Resize image in Bootstrap
 https://vecta.io/nano - Lossless SVG Compressor (fixes font render issue on other browsers)
+https://www.markdownguide.org/cheat-sheet - Markdown Cheat Sheet
