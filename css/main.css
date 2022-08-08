@@ -2,6 +2,7 @@
 :root {
     --bg-dark:#000000;
     --text-light: #F9F6EE;
+    --btn-color: #2274A5;
 }
 
 body, header, footer {
