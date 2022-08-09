@@ -99,7 +99,7 @@ a:link, a:visited, a:hover, a:active {
     background-size: cover;
     align-self: center;
     max-width: 1300px;
-    min-height: 60vh;
+    min-height: 50vh;
     position: relative;
     margin: auto;
     color: white;
