@@ -39,12 +39,17 @@ a {
 /* removes underline from all website links */
 a:link, a:visited, a:hover, a:active {
     text-decoration: none;
+    color: var(--text-light)
 }
 
 /* edits master website logo size for all pages */
 .whitworth-logo {
     width: 160px;
     height: 160px;
+}
+
+.linked-in-icon i a {
+    display: none;
 }
 
 /******************************
