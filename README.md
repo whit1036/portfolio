@@ -30,3 +30,4 @@ Icons:
 * [Lossless SVG Compressor](https://vecta.io/nano)
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 * [Max-Width for Body Using Bootstrap](https://stackoverflow.com/questions/9730263/setting-max-width-for-body-using-bootstrap)
+* [Alt text hack for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)

@@ -37,7 +37,7 @@
         <nav role="navigation" id="nav" class="navbar navbar-expand-md navbar-dark">
             <div class="container">
               <!--adds svg logo to navbar, and centers it for mobile view-->
-              <a class="navbar-brand mx-auto" href="index.html"><img class="whitworth-logo" src="images/whitworth-logo-160x160-vecta.svg" alt="Whitworth Portfolio Logo"></a>
+              <a class="navbar-brand mx-auto" href="index.html"><img class="whitworth-logo" src="images/whitworth-logo-160x160-vecta.svg" alt="Whitworth Portfolio Logo" aria-current="page"></a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -60,39 +60,44 @@
       <!--Hero section with website information-->
         <section role="complementary">
           <!--creates container with css background image, centers text to background-->
-          <div class="container w-100 home-banner text-center text-light d-flex row align-items-center justify-content-center">
+          <aside class="container w-100 home-banner text-center text-light d-flex row align-items-center justify-content-center">
             <!--adjusts display font size and margin top for text elements-->
             <h2 class="display-1 mt-5">Hello!</h2>
-            <p class="display-6 mb-1">I'm Brennan Whitworth.</p>
-            <p class="display-6 mb-2">I am a Multimedia Design Student.</p>
-            <p class="display-6 mb-5">Welcome to my Portfolio Website!</p>
+            <h3 class="display-6 mb-1">I'm Brennan Whitworth.</h3>
+            <h3 class="display-6 mb-2">I am a Multimedia Design Student.</h3>
+            <h3 class="display-6 mb-5">Welcome to my Portfolio Website!</h3>
             <!--Contact Button (links to contact section on about me page)-->
             <a href="about-me.html#contactme" class="btn btn-outline-primary border border-primary border-3 btn-lg w-50 mb-4 text-light" role="button" aria-label="Click to see contact information">Contact Me!</a>
-          </div>
+          </aside>
         </section>
         <!--Portfolio section links (flex'd for tablet and desktop layout)-->
         <div role="complementary" class="container-xxl text-center">
           <!--Bootstrap Grid & Flex System to align section content-->
-          <div class="row">
-            
+          <section class="row">
             <!--centers webdev text over css background image-->
             <div role="region" class="col-lg-4 mt-4 web-dev-bg d-flex justify-content-center align-items-center text-light">
+              <!--provides alt text for web dev background css image using aria label hack-->
+              <span role="img" aria-label="picture of code on computer screen"></span>
               <!--creates a link with id for text, adds animate.css animation-->
-              <a href="portfolio.html#web-dev"><h3 class="display-6 animate__animated animate__backInUp text-light zoom-animation">Web Development</h3></a>
+              <a href="portfolio.html#web-dev"><h3 class="display-6 animate__animated animate__backInUp text-light">Web Development</h3></a>
             </div>
     
             <!--centers photography text over css background image-->
             <div role="region" class="col-lg-4 mt-4 photography-bg d-flex justify-content-center align-items-center text-light">
+              <!--provides alt text for photography background css image using aria label hack-->
+              <span role="img" aria-label="picture of camera on desk"></span>
               <!--creates a link with id for text, adds animate.css animation-->
               <a href="portfolio.html#photography"><h3 class="display-6 animate__animated animate__backInUp text-light">Photography</h3></a>
             </div>
     
             <!--centers software design text over css background image-->
             <div role="region" class="col-lg-4 mt-4 software-bg d-flex justify-content-center align-items-center text-light">
+              <!--provides alt text for software design background css image using aria label hack-->
+              <span role="img" aria-label="picture of keyboard reflection and apps on laptop screen"></span>
               <!--creates a link with id for text, adds animate.css animation-->
               <a href="portfolio.html#design"><h3 class="display-6 animate__animated animate__backInUp text-light">Software Design</h3></a>
             </div>
-          </div>
+          </section>
         </div>
     </main>
 
