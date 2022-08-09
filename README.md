@@ -29,3 +29,4 @@ Icons:
 * [Resize image in Bootstrap](https://www.codegrepper.com/code-examples/whatever/resize+image+in+bootstrap)
 * [Lossless SVG Compressor](https://vecta.io/nano)
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+* [Max-Width for Body Using Bootstrap](https://stackoverflow.com/questions/9730263/setting-max-width-for-body-using-bootstrap)
