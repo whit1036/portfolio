@@ -19,6 +19,10 @@ h1, h2, h3, p, .nav-link {
     color: var(--text-light);
 }
 
+i {
+    color: var(--btn-color);
+}
+
 /* sets font-family for corresponsing font and class tags */
 h1, h2 {
     font-family: 'Rokkitt', serif;
