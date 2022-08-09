@@ -20,6 +20,8 @@ Icons:
 * [Font Awesome](https://fontawesome.com/)
 
 ### References:
+* [W3C HTML Validator](https://validator.w3.org/nu/)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [IMDAC Web Development II](https://imdac.github.io/mtm6201/content/)
 * [MTM6201 - Web Dev II - Week 10 - Section 010 - Spring 2022](https://youtu.be/KoeG--XXVnU)
 * [Bootstrap 5.2 Docs/Instructions](https://getbootstrap.com/)
@@ -31,3 +33,4 @@ Icons:
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 * [Max-Width for Body Using Bootstrap](https://stackoverflow.com/questions/9730263/setting-max-width-for-body-using-bootstrap)
 * [Alt text hack for Background Images](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+* [Alt tags to use instead of div](https://html5doctor.com/element-index/)
