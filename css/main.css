@@ -1,7 +1,14 @@
+/* adjusts body width to fit all sizes of screen */
 body {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* edits master website logo size for all pages */
+.whitworth-logo {
+    width: 160px;
+    height: 160px;
 }
 
 /* sets master color for corresponding html tags/elements */
@@ -40,16 +47,6 @@ a {
 a:link, a:visited, a:hover, a:active {
     text-decoration: none;
     color: var(--text-light)
-}
-
-/* edits master website logo size for all pages */
-.whitworth-logo {
-    width: 160px;
-    height: 160px;
-}
-
-.linked-in-icon i a {
-    display: none;
 }
 
 /******************************
