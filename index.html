@@ -37,7 +37,7 @@
         <nav role="navigation" id="nav" class="navbar navbar-expand-md navbar-dark">
             <div class="container">
               <!--adds svg logo to navbar, and centers it for mobile view-->
-              <a class="navbar-brand mx-auto" href="index.html"><img class="whitworth-logo" src="images/whitworth-logo-160x160-vecta.svg" alt="Whitworth Portfolio Logo" aria-current="page"></a>
+              <a class="navbar-brand mx-auto" href="index.html"><img class="whitworth-logo" src="images/whitworth-logo-160x160-vecta.svg" role="img" alt="Whitworth Portfolio Logo" aria-current="page"></a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -60,9 +60,9 @@
       <!--creates wrapper for all homepage content-->
       <div class="wrapper">
         <!--Hero section with website information-->
-        <section role="complementary">
+        <div role="complementary">
           <!--creates container with css background image, centers text to background-->
-          <aside class="container w-100 home-banner text-center text-light d-flex row align-items-center justify-content-center">
+          <section class="container w-100 home-banner text-center text-light d-flex row align-items-center justify-content-center">
             <!--provides alt text for homepage banner background css image using aria label hack-->
             <span role="img" aria-label="picture of laptop on desk with coffee mug, plant and notepad"></span>
             <!--adjusts display font size and margin top for text elements-->
@@ -72,8 +72,8 @@
             <h3 role="heading" class="display-6 mb-5">Welcome to my Portfolio Website!</h3>
             <!--Contact Button (links to contact section on about me page)-->
             <a href="about-me.html#contactme" class="btn btn-outline-primary border border-primary border-3 btn-lg w-50 mb-4 text-light" role="button" aria-label="Click to see contact information">Contact Me!</a>
-          </aside>
-        </section>
+          </section>
+        </div>
         <!--Portfolio section links (flex'd for tablet and desktop layout)-->
         <div role="complementary" class="container-xxl text-center">
           <!--Bootstrap Grid & Flex System to align section content-->

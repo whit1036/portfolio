@@ -46,7 +46,7 @@ a {
 /* removes underline from all website links */
 a:link, a:visited, a:hover, a:active {
     text-decoration: none;
-    color: var(--text-light)
+    color: var(--text-light);
 }
 
 /******************************
