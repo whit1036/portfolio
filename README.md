@@ -13,6 +13,7 @@ Finally, the greatest challenge I faced was learning Bootstrap all together. Bef
 In conclusion, coding this portfolio website taught me a lot about using the modern coding framework "Bootstrap 5", and how easy and intuitive it is to use their toolkit to build a fully-functioning responsive website. Using Bootstrap's Grid and Flex pre-built systems made it a breeze to style, especially after learning how to style manually without a framework. Of course, learning Bootstrap did not come naturally, but in the end, I created my portfolio almost exactly the way I wanted it to.
 
 Thank you for the excellent semester, Professor!
+Please find the links to all of my assets, resources, and references below.
 
 Images:
 * [Pixabay](https://pixabay.com/)
