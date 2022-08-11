@@ -2,9 +2,11 @@
 
 ## Information Description:
 
-Throughout my journey in Web Development, I have learned to code responsive websites with close attention to semantics, accessibility standards, and design. I created low and high fidelity digital mockups in Adobe XD as part of my User Experience Design Course. From there, I began to begin to coding process, beginning with my laying out my HTML, linking my stylesheet, bootstrap, and my font scrpit to the head of the index.html file.
+I created and designed a mockup for my portfolio in Adobe XD before beginning the coding process. My goal was to create a simple, easy to navigate, and elegant website that showcases my best work from my first and second semester of studies in the Interactive Media Design program at Algonquin College.
 
-After starting with a simple png image for my logo, I realised that the quality of the logo was not of high-quality. To resolve this issue, I used an svg file for my logo instead. After pushing my code to GitHub and testing on multiple browsers, I came into some font rendering issues. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seemlessly across all browsers with the correct font!
+During my coding process, I came into some font rendering issues for my SVG website logo. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seemlessly across all browsers with the correct font!
+
+Developing this portfolio website taught me a lot about Bootstrap 5, and how easy intuitive it is to use to their toolkit to build a fully-functioning responsive website. Using Bootstrap's Grid and Flex pre-built systems made in a breeze to style, especially after learning how to style manually without a modern framework.
 
 Images:
 * [Pixabay](https://pixabay.com/)
