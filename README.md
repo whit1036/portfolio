@@ -2,7 +2,7 @@
 
 ## Information Description:
 
-I created and designed a mockup for my portfolio in Adobe XD before beginning the coding process. My goal was to create a simple, easy to navigate, and elegant portfolio website using a modern CSS styling framework that showcases my best work from my first and second semester of studies in the Interactive Media Design program at Algonquin College.
+>>I created and designed a mockup for my portfolio in Adobe XD before beginning the coding process. My goal was to create a simple, easy to navigate, and elegant portfolio website using a modern CSS styling framework that showcases my best work from my first and second semester of studies in the Interactive Media Design program at Algonquin College.
  
 During my development process, I came into a few errors and challenges. Initially, I had some font rendering issues for my SVG website logo. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seamlessly across all browsers with the correct font!
  
@@ -13,7 +13,8 @@ Finally, the greatest challenge I faced was learning Bootstrap all together. Bef
 In conclusion, coding this portfolio website taught me a lot about using the modern coding framework "Bootstrap 5", and how easy and intuitive it is to use their toolkit to build a fully-functioning responsive website. Using Bootstrap's Grid and Flex pre-built systems made it a breeze to style, especially after learning how to style manually without a framework. Of course, learning Bootstrap did not come naturally, but in the end, I created my portfolio almost exactly the way I wanted it to.
 
 Thank you for the excellent semester, Professor!
-Please find the links to all of my assets, resources, and references below.
+
+**Please find the links to all of my assets, resources, and references listed below.**
 
 Images:
 * [Pixabay](https://pixabay.com/)
