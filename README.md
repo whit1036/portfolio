@@ -2,7 +2,7 @@
 
 ## Information Description:
 
-I created and designed a mockup for my portfolio in Adobe XD before beginning the coding process. My goal was to create a simple, easy to navigate, and elegant portfolio website that showcases my best work from my first and second semester of studies in the Interactive Media Design program at Algonquin College.
+I created and designed a mockup for my portfolio in Adobe XD before beginning the coding process. My goal was to create a simple, easy to navigate, and elegant portfolio website using a modern CSS styling framework that showcases my best work from my first and second semester of studies in the Interactive Media Design program at Algonquin College.
  
 During my development process, I came into a few errors and challenges. Initially, I had some font rendering issues for my SVG website logo. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seamlessly across all browsers with the correct font!
  
