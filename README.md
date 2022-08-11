@@ -2,11 +2,17 @@
 
 ## Information Description:
 
-I created and designed a mockup for my portfolio in Adobe XD before beginning the coding process. My goal was to create a simple, easy to navigate, and elegant website that showcases my best work from my first and second semester of studies in the Interactive Media Design program at Algonquin College.
-
-During my coding process, I came into some font rendering issues for my SVG website logo. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seemlessly across all browsers with the correct font!
-
-Developing this portfolio website taught me a lot about using modern coding framework "Bootstrap 5", and how easy intuitive it is to use to their toolkit to build a fully-functioning responsive website. Using Bootstrap's Grid and Flex pre-built systems made in a breeze to style, especially after learning how to style manually without a framework.
+I created and designed a mockup for my portfolio in Adobe XD before beginning the coding process. My goal was to create a simple, easy to navigate, and elegant portfolio website that showcases my best work from my first and second semester of studies in the Interactive Media Design program at Algonquin College.
+ 
+During my development process, I came into a few errors and challenges. Initially, I had some font rendering issues for my SVG website logo. Researching fixes for this issue led me to Vecta.io, a website that compresses your svg images, and renders your included font styles to work across all browsers. After downloading the new compresses lossless svg, my logo displays seamlessly across all browsers with the correct font!
+ 
+Secondly, I ran into some issues with the images in my portfolio with text on them, and wondered how I would make it possible to display the image and text responsively across all screen sizes. I found a few great tutorial videos on YouTube that walked me through the process using CSS background images and some media queries, and the result was fantastic!
+ 
+Furthermore, resizing my full page width was something I was not sure how to do, and noticed my website looked stretched on smaller laptop and tablet sizes. To fix this, I did a quick Google search and found out that targeting the body of your html in the stylesheet and resizing it there, does the trick by setting a max-width to any pixel density you want, and using margin properties to center the page in proper form.
+ 
+Finally, the greatest challenge I faced was learning Bootstrap all together. Before I began the coding process, I had trouble figuring out how I wanted to use Bootstrap's pre-built systems, and what their purposes were for each class. After thoroughly reading the documentation and instructions, things got better the more I coded and I overcame the quick learning curve. I began to figure Bootstrap out for myself, and I could not be happier doing so. I will definitely be finding myself using the Bootstrap framework to code any of my future projects from now on!
+ 
+In conclusion, coding this portfolio website taught me a lot about using the modern coding framework "Bootstrap 5", and how easy and intuitive it is to use their toolkit to build a fully-functioning responsive website. Using Bootstrap's Grid and Flex pre-built systems made it a breeze to style, especially after learning how to style manually without a framework. Of course, learning Bootstrap did not come naturally, but in the end, I created my portfolio almost exactly the way I wanted it to.
 
 Images:
 * [Pixabay](https://pixabay.com/)
