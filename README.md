@@ -19,6 +19,8 @@ Images:
 
 Frameworks: 
 * [Bootstrap](https://getbootstrap.com/)
+
+Animations:
 * [Animate.css](https://animate.style/)
 
 Font Styles:
